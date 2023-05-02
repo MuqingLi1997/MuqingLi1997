@@ -42,8 +42,11 @@ Data Science Master's graduate with a Bachelor's degree in Mathematics and a min
 3. **China State Grid Electric Power Research Institute** - Algorithm Engineer (2019.12 - 2020.02)
 
 ## 🎯 Analytics Projects
-- **Infectious Diseases and Control Policies in China, the US, and Sweden** (Python) (2021.10)
+- **Infectious Diseases and Control Policies in China, the US, and Sweden** [https://adamli.georgetown.domains/](Python) (2021.10)
 - **Brain Tumor CT Image Classification** (Python) (2021.12)
+- **Store Sales---Time Series Forecasting**  [https://github.com/MuqingLi1997/Store-Sales---Time-Series-Forecasting](Python) (2021.10)
+- **Expedia Hotel Commendation** [https://github.com/MuqingLi1997/Expedia-Hotel-Commendation](Python) (2023.03)
+- **Fetal Health Classification** [https://github.com/MuqingLi1997/Fetal-Health-Classification](Python) (2023.04)
 
 ## 📱 Contact
 - **LinkedIn**: [linkedin.com/in/muqing-li](https://www.linkedin.com/in/muqing-li)
